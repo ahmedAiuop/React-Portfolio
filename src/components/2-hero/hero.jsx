@@ -14,7 +14,7 @@ const Hero = () => {
         <h1 className="name-title">Ahmed Aioup</h1>
         <h1 className="title">
           Front-End Developer
-          <span style={{ color: "var(--blue)", fontSize: "1.7rem" }}>
+          <span style={{ color: "var(--blue)", fontSize: "1.5rem" }}>
             (React.Js).
           </span>
         </h1>

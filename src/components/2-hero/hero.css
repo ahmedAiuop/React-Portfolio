@@ -1,0 +1,109 @@
+/* ============================
+table of contents
+==============================
+
+1. Left section
+2. Right section ==> Animation
+*/
+
+section.hero {
+  margin-top: 3rem;
+}
+
+/* =================
+  1. Left section
+==================== */
+section.hero .parent-avatar.flex {
+  align-items: end;
+  gap: 0.5rem;
+}
+
+section.hero .left-section {
+  flex-grow: 1;
+}
+
+section.hero .icon-verified {
+  color: var(--blue);
+  font-size: 1.1rem;
+  margin-bottom: 0.3rem;
+}
+
+section.hero .avatar {
+  width: 88px;
+  border-radius: 50%;
+  border: 1px solid gold;
+  padding: 2px;
+}
+
+section.hero h1.name-title {
+  color: var(--title);
+  font-size: 2.8rem;
+  line-height: 3.3rem;
+  margin-top: 15px;
+  margin-bottom: -17px;
+}
+
+section.hero h1.title {
+  font-size: 2.8rem;
+  line-height: 3.3rem;
+  margin: 20px 0;
+  color: var(--title);
+}
+
+section.hero p.description {
+  color: var(--subtitile);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  margin-bottom: 32px;
+}
+
+section.hero .all-icons {
+  font-size: 1.4rem;
+  gap: 1.5rem;
+}
+
+section.hero .all-icons .icon:hover {
+  font-size: 1.5rem;
+  transition: 0.3s;
+  cursor: pointer;
+  color: var(--icon-hover);
+}
+
+section.hero .all-icons a {
+  color: var(--subtitile);
+}
+
+section.hero .all-icons .icon-document-download {
+  font-size: 1.7rem;
+}
+
+section.hero .all-icons .icon-document-download:hover {
+  font-size: 1.8rem;
+  transition: 0.3s;
+  cursor: pointer;
+  color: var(--icon-hover);
+}
+
+/* =================================
+  2. Right section ==> Animation
+==================================== */
+
+section.hero .animation {
+  width: 75%;
+  translate: 60px 5px;
+}
+
+@media (max-width: 1250px) {
+  section.hero .animation {
+    display: none;
+  }
+}
+
+@media (max-width: 500px) {
+  section.hero .left-section {
+    width: 100%;
+  }
+  section.hero h1.title {
+    font-size: 2.4rem;
+  }
+}

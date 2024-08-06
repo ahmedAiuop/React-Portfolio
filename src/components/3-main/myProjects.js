@@ -1,5 +1,15 @@
 export const myProjects = [
   {
+    projectTitle: "Admin Dashboard",
+    category: "React & MUI",
+    imgPath: "./images/React Admin Dashboard.jpg",
+    description: "React Admin Dashboard",
+    link: "https://react-admin-dashboard-swart-nine.vercel.app/",
+    gitHub: "https://github.com/ahmedAiuop/React-Admin-Dashboard",
+    gitProfile: "https://github.com/ahmedAiuop",
+  },
+
+  {
     projectTitle: "Flower Shop",
     category: "HTML & CSS",
     imgPath: "./images/flower shop.jpg",
@@ -64,7 +74,7 @@ export const myProjects = [
     link: "https://ahmedaiuop.github.io/Artificial-intelligence-image-generation-program/",
     gitHub:
       "https://github.com/ahmedAiuop/Artificial-intelligence-image-generation-program",
-      gitProfile: "https://github.com/ahmedAiuop",
+    gitProfile: "https://github.com/ahmedAiuop",
   },
   {
     projectTitle: "Creative hover menu",

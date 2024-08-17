@@ -11,10 +11,10 @@ const Contact = () => {
     <section id="contact" className="contact-us">
       <h1 className="title">
         <span className="icon-envelope"></span>
-        Contact Us
+        Contact With Me
       </h1>
       <p className="description">
-        Contact us for more information and get notified when i publish
+        Contact me for more information and get notified when i publish
         something new to my portfolio.
       </p>
 

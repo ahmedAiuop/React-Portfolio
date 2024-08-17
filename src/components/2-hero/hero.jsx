@@ -46,7 +46,7 @@ const Hero = () => {
             className="icon icon-linkedin"
           ></a>
           <a
-            href="/public/CV/Ahmed's Resume.pdf"
+            href="/public/CV/Ahmed-tarek.pdf"
             target="_blank"
             className="icon-document-download"
           ></a>

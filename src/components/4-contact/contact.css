@@ -110,6 +110,10 @@ section.contact-us .submit:hover {
     display: none;
   }
 
+  section.contact-us .title {
+    font-size: 1.8rem;
+  }
+
   section.contact-us form {
     display: flex;
     flex-direction: column;

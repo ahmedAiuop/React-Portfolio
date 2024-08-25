@@ -19,8 +19,8 @@ const Hero = () => {
           </span>
         </h1>
         <p className="description">
-          junior React Developer, Working using React . balance functional
-          design with esthetic design. and I keep my skills updated and learning
+          Junior React Developer, Working using React, Balance functional
+          design with esthetic design, And I keep my skills updated and learning
           Modern technologies.
         </p>
 

@@ -10,15 +10,16 @@ export const myProjects = [
   },
 
   {
-    projectTitle: "Flower Shop",
-    category: "HTML & CSS",
-    imgPath: "./images/flower shop.jpg",
+    projectTitle: "JavaScript Portfolio",
+    category: "Java Script",
+    imgPath: "./images/java-portfolio.jpg",
     description:
-      "A Responsive E-Commerce Flower Shop Website Design using Html & CSS",
-    link: "https://ahmedaiuop.github.io/flower-shop/",
-    gitHub: "https://github.com/ahmedAiuop/flower-shop",
+      "A Responsive JavaScript Portfolio using Html & CSS & Javascript",
+    link: "https://ahmedaiuop.github.io/Portfolio/",
+    gitHub: "https://github.com/ahmedAiuop/Portfolio",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "Web Design",
     category: "Java Script",
@@ -28,6 +29,18 @@ export const myProjects = [
     gitHub: "https://github.com/ahmedAiuop/Special-design",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
+  {
+    projectTitle: "Flower Shop",
+    category: "HTML & CSS",
+    imgPath: "./images/flower shop.jpg",
+    description:
+      "A Responsive E-Commerce Flower Shop Website Design using Html & CSS",
+    link: "https://ahmedaiuop.github.io/flower-shop/",
+    gitHub: "https://github.com/ahmedAiuop/flower-shop",
+    gitProfile: "https://github.com/ahmedAiuop",
+  },
+
   {
     projectTitle: "CRUD",
     category: "Java Script",
@@ -38,6 +51,7 @@ export const myProjects = [
     gitHub: "https://github.com/ahmedAiuop/Product-Management-System",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "Dashboard",
     category: "HTML & CSS",
@@ -47,6 +61,7 @@ export const myProjects = [
     gitHub: "https://github.com/ahmedAiuop/responsive-project",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "Photo Editor",
     category: "Java Script",
@@ -56,6 +71,7 @@ export const myProjects = [
     gitHub: "https://github.com/ahmedAiuop/Editor-project",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "Bootstrap Design",
     category: "HTML & CSS",
@@ -65,6 +81,7 @@ export const myProjects = [
     gitHub: "https://github.com/ahmedAiuop/bootstrap-project",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "AI Image Generator",
     category: "Java Script",
@@ -76,6 +93,7 @@ export const myProjects = [
       "https://github.com/ahmedAiuop/Artificial-intelligence-image-generation-program",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "Creative hover menu",
     category: "HTML & CSS",
@@ -85,6 +103,7 @@ export const myProjects = [
     gitHub: "https://github.com/ahmedAiuop/creative-project",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "Scrolling Website",
     category: "Java Script",
@@ -94,6 +113,7 @@ export const myProjects = [
     gitHub: "https://github.com/ahmedAiuop/Web-project",
     gitProfile: "https://github.com/ahmedAiuop",
   },
+
   {
     projectTitle: "Store Page",
     category: "Java Script",

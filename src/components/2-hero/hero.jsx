@@ -19,9 +19,9 @@ const Hero = () => {
           </span>
         </h1>
         <p className="description">
-          Junior React Developer, Working using React, Balance functional
-          design with esthetic design, And I keep my skills updated and learning
-          Modern technologies.
+          Junior React Developer, Working using React, Balance functional design
+          with esthetic design, And I keep my skills updated and learning Modern
+          technologies.
         </p>
 
         <div className="all-icons flex">
@@ -46,7 +46,7 @@ const Hero = () => {
             className="icon icon-linkedin"
           ></a>
           <a
-            href="https://drive.google.com/file/d/1Gij7uqQfnOXyJSuXOeZ8iENOkap9XTN-/view?usp=sharing"
+            href="https://drive.google.com/file/d/1Q7n91wtDjWVi9OV7Q3otnAnvLJS6v076/view?usp=sharing"
             target="_blank"
             className="icon-document-download"
           ></a>

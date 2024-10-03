@@ -1,5 +1,14 @@
 export const myProjects = [
   {
+    projectTitle: "React E-Commerce",
+    category: "React & MUI",
+    imgPath: "./images/React ecommerce.jpg",
+    description: "React E-Commerce With Strapi",
+    link: "https://e-commerce-lovat-pi.vercel.app/",
+    gitHub: "https://github.com/ahmedAiuop/React-E-commerce",
+    gitProfile: "https://github.com/ahmedAiuop",
+  },
+  {
     projectTitle: "Admin Dashboard",
     category: "React & MUI",
     imgPath: "./images/React Admin Dashboard.jpg",

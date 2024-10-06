@@ -46,7 +46,7 @@ const Hero = () => {
             className="icon icon-linkedin"
           ></a>
           <a
-            href="https://drive.google.com/file/d/1Q7n91wtDjWVi9OV7Q3otnAnvLJS6v076/view?usp=sharing"
+            href="https://drive.google.com/file/d/1LcPUh8-QFBoF7bYapxEcXV5AxoTWJaGF/view?usp=sharing"
             target="_blank"
             className="icon-document-download"
           ></a>
